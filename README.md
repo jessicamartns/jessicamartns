@@ -1,37 +1,85 @@
-# Hi, I'm Jessica 👋
+<h1 align="center">Hi, I'm Jessica 👋</h1>
 
-### Quality Engineer | Test Automation | Continuous Testing | AI-Powered QA
+<h3 align="center">Quality Engineer | Test Automation | Continuous Testing | AI-Powered QA</h3>
 
-💼 QA professional since 2021 with experience in Web, Mobile, API and Microservices testing.
+<p align="center">
+QA professional since 2021 with experience in Web, Mobile, API and Microservices testing.
+Focused on quality, automation and continuous improvement.
+</p>
 
-🚀 Focused on software quality, automation and continuous improvement.
+---
 
-## Tech Stack
+## 🚀 About Me
 
-- Cypress
-- Selenium
-- Rest Assured
-- Postman
-- Robot Framework
-- Cucumber
-- SQL
-- PostgreSQL
-- MongoDB
+- 💼 Working with Quality Assurance since 2021
+- 🤖 Using AI to support test planning, test scenarios and automation
+- 🔍 Strong experience with manual and automated testing
+- ⚡ Passionate about Agile Testing and software quality culture
+- 📈 Continuous improvement mindset
 
-## Expertise
+---
 
-- Test Automation
-- API Testing
-- Continuous Testing
-- Agile Testing
-- Shift Left
-- Quality Strategy
+## 🛠️ Tech Stack
 
-## Currently Improving
+<p>
+<img src="https://skillicons.dev/icons?i=github,git,selenium,postgres,mongodb" />
+</p>
 
-- AI for QA
-- CI/CD Pipelines
-- Advanced Automation Architecture
+- Cypress  
+- Selenium  
+- Rest Assured  
+- Postman  
+- Robot Framework  
+- Cucumber  
+- SQL  
+- PostgreSQL  
+- MongoDB  
+
+---
+
+## 🎯 Expertise
+
+- Test Automation  
+- API Testing  
+- Continuous Testing  
+- Agile Testing  
+- Shift Left Testing  
+- Functional Testing  
+- Regression Testing  
+- Exploratory Testing  
+- Quality Strategy  
+
+---
+
+## 📚 Currently Improving
+
+- AI for QA  
+- CI/CD Pipelines  
+- Advanced Test Automation Architecture  
+- Performance Testing  
+
+---
+
+## 📫 Contact
+
+📩 **jessicalice.sp@gmail.com**
+
+💼 LinkedIn: www.linkedin.com/in/jessicamartns
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jessicamartns&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamartns&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+✨ Building quality through testing, automation and innovation.
+</p>- Advanced Automation Architecture
 
 ## Contact
 
