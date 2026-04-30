@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Jessica 👋
 
-<!--
-**jessicamartns/jessicamartns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Quality Engineer | Test Automation | Continuous Testing | AI-Powered QA
 
-Here are some ideas to get you started:
+💼 QA professional since 2021 with experience in Web, Mobile, API and Microservices testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Focused on software quality, automation and continuous improvement.
+
+## Tech Stack
+
+- Cypress
+- Selenium
+- Rest Assured
+- Postman
+- Robot Framework
+- Cucumber
+- SQL
+- PostgreSQL
+- MongoDB
+
+## Expertise
+
+- Test Automation
+- API Testing
+- Continuous Testing
+- Agile Testing
+- Shift Left
+- Quality Strategy
+
+## Currently Improving
+
+- AI for QA
+- CI/CD Pipelines
+- Advanced Automation Architecture
+
+## Contact
+
+📩 jessicalice.sp@gmail.com
